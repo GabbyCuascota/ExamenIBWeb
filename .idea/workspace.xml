@@ -13,20 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="main.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/futbol/src/main.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#0#43#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,11 +29,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/futbol/src/Equipo_Futbol/Equipo_Futbol.ts" />
         <option value="$PROJECT_DIR$/futbol/src/Equipo_Futbol/Equipo_Futbol.schema.ts" />
         <option value="$PROJECT_DIR$/futbol/src/Jugador/Jugador.ts" />
         <option value="$PROJECT_DIR$/futbol/src/Jugador/Jugador.schema.ts" />
         <option value="$PROJECT_DIR$/futbol/src/main.ts" />
+        <option value="$PROJECT_DIR$/futbol/src/Equipo_Futbol/Equipo_Futbol.ts" />
       </list>
     </option>
   </component>
@@ -64,7 +51,7 @@
       <path value="$PROJECT_DIR$/futbol/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="814" />
     <option name="height" value="867" />
@@ -148,16 +135,15 @@
       <option name="presentableId" value="Default" />
       <updated>1527709361007</updated>
       <workItem from="1527709362837" duration="520000" />
-      <workItem from="1527813118697" duration="3475000" />
+      <workItem from="1527813118697" duration="4198000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3995000" />
+    <option name="totallyTimeSpent" value="4718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="814" height="867" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.5012531" />
@@ -189,9 +175,6 @@
     <entry file="file://$PROJECT_DIR$/futbol/src/Equipo_Futbol/Equipo_Futbol.schema.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/futbol/src/Equipo_Futbol/Equipo_Futbol.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -212,6 +195,13 @@
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/futbol/src/Equipo_Futbol/Equipo_Futbol.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
